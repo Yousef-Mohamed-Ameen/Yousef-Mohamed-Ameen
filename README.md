@@ -29,7 +29,7 @@ I am a third-year Mechatronics Engineering student at Alexandria National Univer
 
 ## Selected Projects
 
-- **C++ Library Management System** — Console application built with OOP, inheritance, and structured file handling.
+- **[C++ Library Management System](https://github.com/Yousef-Mohamed-Ameen/cpp-library-management-system)** — Tested C++17 application built with OOP, inheritance, persistent file storage, CMake, and automated tests.
 - **Two-Floor Elevator Control System** — Programming, electrical control, system integration, and load calculations in a team project.
 - **Washing Machine Control System** — Structured control logic for an automatic operating sequence.
 - **Smart Vacuum Cleaner Robot** — Sensor, motor-control, and microcontroller-based navigation concept.
